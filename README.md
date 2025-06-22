@@ -29,10 +29,10 @@ I absolutely love Formula 1! From lights out to the checkered flag, I’m hooked
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="linkedin.com/in/BinduMadhaviBheesetty" target="_blank">
+  <a href="https://www.linkedin.com/in/bindu-madhavi-bheesetty/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right: 20px;" />
   </a>
-  <a href="mailto:bibhee@iu.edu" target="_blank">
+  <a href="mailto:bindubheesetty@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="40" width="40" style="margin-right: 20px;" />
   </a>
 </p>
