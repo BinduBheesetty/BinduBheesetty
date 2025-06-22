@@ -2,7 +2,7 @@
 ![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
 
 <h1 align="center">Hi 👋, I'm Bindu Madhavi Bheesetty</h1>
-<h3 align="center">Full-Stack Developer | Cloud & DevOps Enthusiast | AWS Certified |</h3>
+<h3 align="center">Full-Stack Developer | Cloud & DevOps Enthusiast | AWS Certified </h3>
 
 <!-- Coding GIF -->
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF5cXp0MDdnNmg4bHR4d3NuaXZmZnVkNGozbndhODM1c2Z2N2NvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
