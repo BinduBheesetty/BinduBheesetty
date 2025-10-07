@@ -15,10 +15,7 @@
 - 🌱 I’m currently exploring **AWS, DevOps, and System Design**  
 - 🤝 I’m looking for **full-time software engineering and full-stack development roles**  
 - 💬 Ask me about **Java, Spring Boot, React, Node.js, Docker, Kubernetes, and AWS**  
-- 📫 Reach me: **bindubheesetty@gmail.com**  
-- 📄 [**Resume**](https://drive.google.com/file/d/1Lx3zhHBd_pIpmDtAJRQemWKeEuYS4-GK/view)  
-- 👩‍💻 [**Linkedin Profile**](https://www.linkedin.com/in/bindu-madhavi-bheesetty/)  
-
+- 📫 Reach me: **bheesettybindu00@gmail.com**  
 ---
 
 ### ⚡ Fun Fact: I'm a Formula 1 Enthusiast! 🏎️🏁  
